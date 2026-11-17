@@ -1,0 +1,24 @@
+{
+  "name": "Lovable Pro",
+  "category": "AI & Education",
+  "price": 3499,
+  "badge": "🆕 New",
+  "letter": "L",
+  "color1": "#ec4899",
+  "color2": "#4a0e2a",
+  "image": "",
+  "plans": [],
+  "about_bn": "Lovable সাধারণ ভাষায় লিখে ওয়েব অ্যাপ বানায়।",
+  "points_bn": [
+    "অ্যাপের বর্ণনা দিলেই কাজ করা কোড",
+    "AI-র সাথে চ্যাট করে প্রজেক্ট এডিট",
+    "নিজের হোস্টিংয়ের জন্য কোড এক্সপোর্ট"
+  ],
+  "about_en": "Lovable builds web apps from plain-language prompts.",
+  "points_en": [
+    "Describe an app and get working code",
+    "Edit your project by chatting with AI",
+    "Export code you can host yourself"
+  ],
+  "order": 56
+}

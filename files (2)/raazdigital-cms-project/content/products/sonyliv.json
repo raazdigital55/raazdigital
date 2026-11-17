@@ -1,0 +1,24 @@
+{
+  "name": "SonyLIV",
+  "category": "Streaming",
+  "price": 299,
+  "badge": "🆕 New",
+  "letter": "S",
+  "color1": "#f97316",
+  "color2": "#7c2d12",
+  "image": "",
+  "plans": [],
+  "about_bn": "SonyLIV-এ ভারতীয় টিভি শো, সিনেমা, ওরিজিনাল ও লাইভ স্পোর্টস দেখা যায়।",
+  "points_bn": [
+    "হিন্দি ও আঞ্চলিক সিনেমা, সিরিজ ও ওরিজিনাল",
+    "লাইভ স্পোর্টস ও জনপ্রিয় টিভি শো",
+    "অঞ্চলভিত্তিক সার্ভিস — বাংলাদেশ থেকে ব্যবহারের নিয়ম WhatsApp-এ জেনে নিন"
+  ],
+  "about_en": "SonyLIV streams Indian TV shows, movies, originals and live sports.",
+  "points_en": [
+    "Hindi and regional movies, series and originals",
+    "Live sports and popular TV shows",
+    "Region-limited service — ask us on WhatsApp about access from Bangladesh"
+  ],
+  "order": 36
+}

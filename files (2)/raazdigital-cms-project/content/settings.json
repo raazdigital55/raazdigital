@@ -1,0 +1,41 @@
+{
+  "brand": "RaaZ Digital",
+  "whatsapp": "8801325977732",
+  "phoneShown": "01325-977732",
+  "address": "Mirpur, Dhaka, Bangladesh",
+  "addressBn": "মিরপুর, ঢাকা, বাংলাদেশ",
+  "hours": "11 AM – 11 PM",
+  "bkash": "01325977732",
+  "email": "raazdigital55@gmail.com",
+  "homeCountry": "BD",
+  "usdRate": 120,
+  "popular": [
+    "Adobe Creative Cloud",
+    "Office 365 Personal",
+    "Zoom Pro",
+    "LinkedIn Premium",
+    "Windows 11 Pro",
+    "Netflix 4K",
+    "Prime Video",
+    "YouTube Premium"
+  ],
+  "firebase": {
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "appId": ""
+  },
+  "emailjs": {
+    "serviceId": "",
+    "templateId": "",
+    "publicKey": ""
+  },
+  "streamingFirst": [
+    "Netflix 4K",
+    "Prime Video",
+    "Netflix + Amazon Prime Combo",
+    "YouTube Premium",
+    "Spotify Premium"
+  ],
+  "siteUrl": "https://raazdigital.pages.dev"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Scribd Premium",
+  "category": "AI & Education",
+  "price": 499,
+  "badge": "🆕 New",
+  "letter": "S",
+  "color1": "#1e7b85",
+  "color2": "#0b3a40",
+  "image": "",
+  "plans": [],
+  "about_bn": "Scribd-এ ই-বুক, অডিওবুক, ম্যাগাজিন ও ডকুমেন্টের বিশাল লাইব্রেরি পাওয়া যায়।",
+  "points_bn": [
+    "ই-বুক, অডিওবুক ও ম্যাগাজিন",
+    "পড়াশোনা ও গবেষণার জন্য ডকুমেন্ট পড়া",
+    "ওয়েব ও মোবাইল অ্যাপে চলে"
+  ],
+  "about_en": "Scribd gives access to a large library of ebooks, audiobooks, magazines and documents.",
+  "points_en": [
+    "Ebooks, audiobooks and magazines",
+    "Read documents for study and research",
+    "Works on web and mobile apps"
+  ],
+  "order": 49
+}

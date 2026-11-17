@@ -1,0 +1,24 @@
+{
+  "name": "Audible Plus",
+  "category": "Streaming",
+  "price": 1999,
+  "badge": "🆕 New",
+  "letter": "A",
+  "color1": "#f59e0b",
+  "color2": "#7c2d12",
+  "image": "",
+  "plans": [],
+  "about_bn": "Audible Plus-এ অডিওবুক, পডকাস্ট ও ওরিজিনাল কনটেন্টের লাইব্রেরি পাওয়া যায়।",
+  "points_bn": [
+    "অডিওবুক, পডকাস্ট ও Audible Originals",
+    "Audible অ্যাপে অফলাইনে শোনা যায়",
+    "পড়াশোনা, ভ্রমণ ও যাতায়াতে দারুণ"
+  ],
+  "about_en": "Audible Plus gives access to a library of audiobooks, podcasts and originals.",
+  "points_en": [
+    "Audiobooks, podcasts and Audible Originals",
+    "Listen offline in the Audible app",
+    "Great for study, travel and commuting"
+  ],
+  "order": 46
+}

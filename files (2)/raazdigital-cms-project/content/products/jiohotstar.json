@@ -1,0 +1,24 @@
+{
+  "name": "JioHotstar",
+  "category": "Streaming",
+  "price": 699,
+  "badge": "🆕 New",
+  "letter": "J",
+  "color1": "#6d28d9",
+  "color2": "#1e1b4b",
+  "image": "",
+  "plans": [],
+  "about_bn": "JioHotstar এক অ্যাপেই সিনেমা, সিরিজ, শিশুতোষ কনটেন্ট ও লাইভ স্পোর্টস দেয়।",
+  "points_bn": [
+    "অনেক ভারতীয় ভাষায় সিনেমা, সিরিজ ও টিভি শো",
+    "লাইভ ক্রিকেট ও অন্যান্য খেলা",
+    "অঞ্চলভিত্তিক সার্ভিস — বাংলাদেশ থেকে ব্যবহারের নিয়ম WhatsApp-এ জেনে নিন"
+  ],
+  "about_en": "JioHotstar brings movies, series, kids content and live sports together in one app.",
+  "points_en": [
+    "Movies, series and TV shows in many Indian languages",
+    "Live cricket and other sports",
+    "Region-limited service — ask us on WhatsApp about access from Bangladesh"
+  ],
+  "order": 43
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Microsoft Copilot Pro",
+  "category": "AI & Education",
+  "price": 1299,
+  "badge": "",
+  "letter": "✦",
+  "color1": "#2563eb",
+  "color2": "#4c1d95",
+  "image": "",
+  "plans": [],
+  "about_bn": "Microsoft Copilot Pro — Word, Excel ও PowerPoint-এ AI সহায়তা পান।",
+  "points_bn": [
+    "অফিস অ্যাপে AI সহায়তা",
+    "লেখা ও সারাংশ তৈরি",
+    "ডেটা বিশ্লেষণে সাহায্য",
+    "উন্নত AI মডেলে অ্যাক্সেস"
+  ],
+  "about_en": "Microsoft Copilot Pro — get AI help inside Word, Excel and PowerPoint.",
+  "points_en": [
+    "AI help in Office apps",
+    "Drafting and summarizing",
+    "Help with data analysis",
+    "Access to advanced AI models"
+  ],
+  "order": 20
+}

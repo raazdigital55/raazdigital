@@ -1,0 +1,24 @@
+{
+  "name": "Audible Premium Plus",
+  "category": "Streaming",
+  "price": 2999,
+  "badge": "🆕 New",
+  "letter": "A+",
+  "color1": "#f59e0b",
+  "color2": "#7c2d12",
+  "image": "",
+  "plans": [],
+  "about_bn": "Audible Premium Plus-এ Plus লাইব্রেরির পাশাপাশি যেকোনো অডিওবুকের জন্য মাসিক ক্রেডিট পাওয়া যায় (প্ল্যান অনুযায়ী ভিন্ন হতে পারে)।",
+  "points_bn": [
+    "পছন্দের অডিওবুকের জন্য মাসিক ক্রেডিট (প্ল্যান অনুযায়ী)",
+    "অডিওবুক ও পডকাস্টের Plus লাইব্রেরি",
+    "Audible অ্যাপে অফলাইনে শোনা যায়"
+  ],
+  "about_en": "Audible Premium Plus adds monthly credits for any audiobook on top of the Plus catalogue (plan details may vary).",
+  "points_en": [
+    "Monthly credit to pick an audiobook (varies by plan)",
+    "Plus catalogue of audiobooks and podcasts",
+    "Listen offline in the Audible app"
+  ],
+  "order": 47
+}

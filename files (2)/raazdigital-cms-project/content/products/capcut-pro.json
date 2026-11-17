@@ -1,0 +1,37 @@
+{
+  "name": "CapCut Pro",
+  "category": "Subscription",
+  "price": 299,
+  "badge": "🥇 Editor’s Choice",
+  "letter": "✂",
+  "color1": "#374151",
+  "color2": "#030712",
+  "image": "",
+  "plans": [
+    {
+      "label": "Shared · 1 Month",
+      "price": 299
+    },
+    {
+      "label": "Private · 1 Month",
+      "price": 699
+    }
+  ],
+  "about_bn": "CapCut Pro দিয়ে প্রিমিয়াম ইফেক্ট, ফিল্টার ও টুলস ব্যবহার করে সুন্দর ভিডিও বানান।",
+  "points_bn": [
+    "প্রিমিয়াম ইফেক্ট ও ট্রানজিশন",
+    "উন্নত এডিটিং টুলস",
+    "রিলস, শর্টস ও টিকটকের জন্য আদর্শ",
+    "Android ও iPhone-এ ব্যবহারযোগ্য",
+    "শেয়ার্ড বা প্রাইভেট অ্যাকাউন্ট — পছন্দমতো বেছে নিন"
+  ],
+  "about_en": "Make beautiful videos with CapCut Pro's premium effects, filters and tools.",
+  "points_en": [
+    "Premium effects and transitions",
+    "Advanced editing tools",
+    "Ideal for Reels, Shorts and TikTok",
+    "Works on Android and iPhone",
+    "Shared or Private account — choose the one you want"
+  ],
+  "order": 11
+}

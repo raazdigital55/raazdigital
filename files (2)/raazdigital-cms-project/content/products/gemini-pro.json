@@ -1,0 +1,39 @@
+{
+  "name": "Gemini Pro",
+  "category": "Subscription",
+  "price": 699,
+  "badge": "⚡ Flash Deal",
+  "letter": "G",
+  "color1": "#8b5cf6",
+  "color2": "#4c1d95",
+  "image": "",
+  "plans": [
+    {
+      "label": "6 Months",
+      "price": 699
+    },
+    {
+      "label": "12 Months",
+      "price": 999
+    },
+    {
+      "label": "18 Months",
+      "price": 1200
+    }
+  ],
+  "about_bn": "Google-এর উন্নত AI অ্যাসিস্ট্যান্ট Gemini Pro — লেখা, রিসার্চ, কোডিং ও বিশ্লেষণে আপনার সহকারী।",
+  "points_bn": [
+    "উন্নত AI মডেলে অ্যাক্সেস",
+    "লম্বা ডকুমেন্ট ও ফাইল বিশ্লেষণ",
+    "Google অ্যাপের সাথে ইন্টিগ্রেশন",
+    "পড়াশোনা ও কাজ দুটোতেই কার্যকর"
+  ],
+  "about_en": "Google's advanced AI assistant, Gemini Pro — your helper for writing, research, coding and analysis.",
+  "points_en": [
+    "Access to advanced AI models",
+    "Analysis of long documents and files",
+    "Integration with Google apps",
+    "Useful for both study and work"
+  ],
+  "order": 7
+}

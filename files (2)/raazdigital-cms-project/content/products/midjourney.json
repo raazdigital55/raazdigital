@@ -1,0 +1,26 @@
+{
+  "name": "Midjourney",
+  "category": "AI & Education",
+  "price": 1799,
+  "badge": "",
+  "letter": "⛵",
+  "color1": "#111827",
+  "color2": "#4b5563",
+  "image": "",
+  "plans": [],
+  "about_bn": "Midjourney — টেক্সট লিখে অসাধারণ AI ছবি ও আর্টওয়ার্ক তৈরি করুন।",
+  "points_bn": [
+    "টেক্সট থেকে ছবি তৈরি",
+    "উচ্চ মানের আর্টওয়ার্ক",
+    "ডিজাইন ও কনটেন্টের জন্য আদর্শ",
+    "দ্রুত জেনারেশন"
+  ],
+  "about_en": "Midjourney — create stunning AI images and artwork by typing text.",
+  "points_en": [
+    "Text-to-image generation",
+    "High-quality artwork",
+    "Ideal for design and content",
+    "Fast generation"
+  ],
+  "order": 21
+}

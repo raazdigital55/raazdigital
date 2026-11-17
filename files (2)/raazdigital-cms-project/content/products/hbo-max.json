@@ -1,0 +1,24 @@
+{
+  "name": "HBO Max",
+  "category": "Streaming",
+  "price": 399,
+  "badge": "🆕 New",
+  "letter": "H",
+  "color1": "#5b2bd3",
+  "color2": "#1b0b52",
+  "image": "",
+  "plans": [],
+  "about_bn": "HBO Max-এ HBO সিরিজ, ব্লকবাস্টার সিনেমা ও ওরিজিনাল দেখা যায়।",
+  "points_bn": [
+    "HBO সিরিজ, সিনেমা ও ওরিজিনাল",
+    "নির্দিষ্ট প্ল্যানে অফলাইনে দেখার জন্য ডাউনলোড",
+    "অঞ্চলভিত্তিক সার্ভিস — বাংলাদেশ থেকে ব্যবহারের নিয়ম WhatsApp-এ জেনে নিন"
+  ],
+  "about_en": "HBO Max streams HBO series, blockbuster movies and originals.",
+  "points_en": [
+    "HBO series, films and originals",
+    "Downloads for offline viewing on supported plans",
+    "Region-limited service — ask us on WhatsApp about access from Bangladesh"
+  ],
+  "order": 38
+}

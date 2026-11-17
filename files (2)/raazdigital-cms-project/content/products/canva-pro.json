@@ -1,0 +1,26 @@
+{
+  "name": "Canva Pro",
+  "category": "Design & Creative",
+  "price": 250,
+  "badge": "🥇 Editor’s Choice",
+  "letter": "C",
+  "color1": "#00c4cc",
+  "color2": "#7d2ae8",
+  "image": "",
+  "plans": [],
+  "about_bn": "Canva Pro — প্রিমিয়াম টেমপ্লেট ও টুলস দিয়ে সহজে সুন্দর ডিজাইন বানান।",
+  "points_bn": [
+    "প্রিমিয়াম টেমপ্লেট ও ফটো",
+    "ব্যাকগ্রাউন্ড রিমুভার",
+    "ব্র্যান্ড কিট",
+    "সোশ্যাল মিডিয়া ও প্রেজেন্টেশনের জন্য আদর্শ"
+  ],
+  "about_en": "Canva Pro — create beautiful designs easily with premium templates and tools.",
+  "points_en": [
+    "Premium templates and photos",
+    "Background remover",
+    "Brand kit",
+    "Ideal for social media and presentations"
+  ],
+  "order": 27
+}

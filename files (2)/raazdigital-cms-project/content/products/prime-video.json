@@ -1,0 +1,43 @@
+{
+  "name": "Prime Video",
+  "category": "Streaming",
+  "price": 150,
+  "badge": "🎬 Prime Pick",
+  "letter": "▶",
+  "color1": "#00a8e1",
+  "color2": "#0b3b5c",
+  "image": "/images/products/prime-video.svg",
+  "plans": [
+    {
+      "label": "1 Month",
+      "price": 150
+    },
+    {
+      "label": "3 Months",
+      "price": 380
+    },
+    {
+      "label": "6 Months",
+      "price": 670
+    },
+    {
+      "label": "12 Months",
+      "price": 1050
+    }
+  ],
+  "about_bn": "Amazon Prime Video — সিনেমা, ওরিজিনাল সিরিজ ও ডকুমেন্টারি দেখুন পছন্দের যেকোনো ডিভাইসে। আপনার সুবিধামতো প্ল্যান বেছে নিন।",
+  "points_bn": [
+    "সিনেমা, ওরিজিনাল সিরিজ ও ডকুমেন্টারি",
+    "মোবাইল, ট্যাব, ল্যাপটপ ও টিভিতে দেখা যায়",
+    "যেকোনো সমস্যায় সাপোর্ট পাবেন",
+    "১ থেকে ১২ মাসের প্ল্যান"
+  ],
+  "about_en": "Amazon Prime Video — watch movies, original series and documentaries on any device. Choose a plan that suits you.",
+  "points_en": [
+    "Movies, original series and documentaries",
+    "Watch on mobile, tablet, laptop and TV",
+    "Support for any problem",
+    "Plans from 1 to 12 months"
+  ],
+  "order": 14
+}

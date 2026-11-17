@@ -1,0 +1,26 @@
+{
+  "name": "Duolingo Super",
+  "category": "AI & Education",
+  "price": 550,
+  "badge": "",
+  "letter": "D",
+  "color1": "#58cc02",
+  "color2": "#2f7d00",
+  "image": "",
+  "plans": [],
+  "about_bn": "Duolingo Super — বিজ্ঞাপন ছাড়া নতুন ভাষা শিখুন, আনলিমিটেড হার্টসহ।",
+  "points_bn": [
+    "বিজ্ঞাপনমুক্ত শেখা",
+    "আনলিমিটেড হার্ট",
+    "অফলাইন লেসন",
+    "ইংরেজিসহ অনেক ভাষা"
+  ],
+  "about_en": "Duolingo Super — learn new languages without ads, with unlimited hearts.",
+  "points_en": [
+    "Ad-free learning",
+    "Unlimited hearts",
+    "Offline lessons",
+    "English and many other languages"
+  ],
+  "order": 24
+}

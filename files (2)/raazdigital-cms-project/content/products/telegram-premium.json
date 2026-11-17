@@ -1,0 +1,26 @@
+{
+  "name": "Telegram Premium",
+  "category": "Software & Productivity",
+  "price": 650,
+  "badge": "",
+  "letter": "✈",
+  "color1": "#229ed9",
+  "color2": "#0b4f73",
+  "image": "",
+  "plans": [],
+  "about_bn": "Telegram Premium — বড় ফাইল আপলোড, বেশি ফিচার ও এক্সক্লুসিভ সুবিধা পান।",
+  "points_bn": [
+    "বড় ফাইল আপলোড",
+    "দ্রুত ডাউনলোড",
+    "এক্সক্লুসিভ স্টিকার ও রিঅ্যাকশন",
+    "বিজ্ঞাপন কম"
+  ],
+  "about_en": "Telegram Premium — larger file uploads, more features and exclusive perks.",
+  "points_en": [
+    "Larger file uploads",
+    "Faster downloads",
+    "Exclusive stickers and reactions",
+    "Fewer ads"
+  ],
+  "order": 25
+}

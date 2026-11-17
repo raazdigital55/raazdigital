@@ -1,0 +1,43 @@
+{
+  "name": "Spotify Premium",
+  "category": "Streaming",
+  "price": 180,
+  "badge": "🎧 Personal Account",
+  "letter": "S",
+  "color1": "#1ed760",
+  "color2": "#0b4d26",
+  "image": "/images/products/spotify-premium.svg",
+  "plans": [
+    {
+      "label": "1 Month",
+      "price": 180
+    },
+    {
+      "label": "3 Months",
+      "price": 540
+    },
+    {
+      "label": "6 Months",
+      "price": 990
+    },
+    {
+      "label": "12 Months",
+      "price": 1850
+    }
+  ],
+  "about_bn": "Spotify Premium — বিজ্ঞাপনবিহীন গান শুনুন নিজের পছন্দের প্লেলিস্টে, ব্যক্তিগত (Personal) অ্যাকাউন্টে। আপনার পছন্দের প্ল্যান বেছে নিন।",
+  "points_bn": [
+    "Personal Account",
+    "বিজ্ঞাপন ছাড়া গান শোনা",
+    "অফলাইন ডাউনলোড ও স্কিপ করার সুবিধা",
+    "যেকোনো সমস্যায় সাপোর্ট পাবেন"
+  ],
+  "about_en": "Spotify Premium — listen to ad-free music on your own playlists with a personal account. Choose the plan you like.",
+  "points_en": [
+    "Personal account",
+    "Ad-free music",
+    "Offline downloads and skips",
+    "Support for any problem"
+  ],
+  "order": 16
+}

@@ -1,0 +1,26 @@
+{
+  "name": "NordVPN",
+  "category": "VPN & Security",
+  "price": 499,
+  "badge": "",
+  "letter": "N",
+  "color1": "#4687ff",
+  "color2": "#1b2a5e",
+  "image": "",
+  "plans": [],
+  "about_bn": "NordVPN — নিরাপদ ও দ্রুত VPN দিয়ে ইন্টারনেটে প্রাইভেসি বজায় রাখুন।",
+  "points_bn": [
+    "দ্রুত গতির সার্ভার",
+    "একাধিক দেশে সার্ভার",
+    "পাবলিক Wi-Fi-এ সুরক্ষা",
+    "সব প্রধান ডিভাইসে অ্যাপ"
+  ],
+  "about_en": "NordVPN — keep your privacy online with a secure and fast VPN.",
+  "points_en": [
+    "High-speed servers",
+    "Servers in many countries",
+    "Protection on public Wi-Fi",
+    "Apps for all major devices"
+  ],
+  "order": 31
+}

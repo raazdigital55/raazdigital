@@ -1,0 +1,24 @@
+{
+  "name": "AMC+",
+  "category": "Streaming",
+  "price": 299,
+  "badge": "🆕 New",
+  "letter": "A+",
+  "color1": "#2563eb",
+  "color2": "#0f172a",
+  "image": "",
+  "plans": [],
+  "about_bn": "AMC+ এ AMC ওরিজিনাল, প্রশংসিত ড্রামা ও জনরা-ভিত্তিক সিরিজ দেখা যায়।",
+  "points_bn": [
+    "AMC ও AMC+ ওরিজিনাল সিরিজ",
+    "ড্রামা, থ্রিলার ও হরর টাইটেল",
+    "অঞ্চলভিত্তিক সার্ভিস — বাংলাদেশ থেকে ব্যবহারের নিয়ম WhatsApp-এ জেনে নিন"
+  ],
+  "about_en": "AMC+ streams AMC originals, acclaimed dramas and genre favourites.",
+  "points_en": [
+    "AMC and AMC+ original series",
+    "Dramas, thrillers and horror titles",
+    "Region-limited service — ask us on WhatsApp about access from Bangladesh"
+  ],
+  "order": 40
+}

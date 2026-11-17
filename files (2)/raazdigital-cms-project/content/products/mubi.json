@@ -1,0 +1,24 @@
+{
+  "name": "Mubi",
+  "category": "Streaming",
+  "price": 399,
+  "badge": "🆕 New",
+  "letter": "M",
+  "color1": "#2b2b2b",
+  "color2": "#000000",
+  "image": "",
+  "plans": [],
+  "about_bn": "MUBI আর্টহাউস, ইন্ডি ও ক্ল্যাসিক সিনেমার বাছাই করা স্ট্রিমিং সার্ভিস।",
+  "points_bn": [
+    "বাছাই করা আর্টহাউস, ইন্ডি ও বিশ্বসিনেমা",
+    "প্রতিদিন একটি নতুন সিনেমা হাইলাইট",
+    "ফোন, ট্যাব, ল্যাপটপ ও টিভিতে দেখা যায়"
+  ],
+  "about_en": "MUBI is a curated streaming service for art-house, indie and classic films.",
+  "points_en": [
+    "Hand-picked art-house, indie and world cinema",
+    "A new film highlighted every day",
+    "Watch on phone, tablet, laptop and TV"
+  ],
+  "order": 34
+}

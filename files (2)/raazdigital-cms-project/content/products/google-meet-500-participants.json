@@ -1,0 +1,39 @@
+{
+  "name": "Google Meet 500 Participants",
+  "category": "Subscription",
+  "price": 999,
+  "badge": "",
+  "letter": "M",
+  "color1": "#059669",
+  "color2": "#064e3b",
+  "image": "",
+  "plans": [
+    {
+      "label": "1 Month",
+      "price": 999
+    },
+    {
+      "label": "2 Months",
+      "price": 1898
+    },
+    {
+      "label": "3 Months",
+      "price": 2500
+    }
+  ],
+  "about_bn": "Google Meet-এ বড় মিটিং ও ইভেন্ট আয়োজন করুন, ৫০০ জন পর্যন্ত অংশগ্রহণকারী নিয়ে।",
+  "points_bn": [
+    "৫০০ জন পর্যন্ত অংশগ্রহণকারী",
+    "মিটিং রেকর্ডিং",
+    "ওয়েবিনার ও ক্লাসের জন্য উপযোগী",
+    "ব্রাউজার থেকেই জয়েন"
+  ],
+  "about_en": "Host large meetings and events on Google Meet with up to 500 participants.",
+  "points_en": [
+    "Up to 500 participants",
+    "Meeting recording",
+    "Great for webinars and classes",
+    "Join right from the browser"
+  ],
+  "order": 10
+}

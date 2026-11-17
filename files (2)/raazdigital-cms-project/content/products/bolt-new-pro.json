@@ -1,0 +1,24 @@
+{
+  "name": "Bolt.new Pro",
+  "category": "AI & Education",
+  "price": 1999,
+  "badge": "🆕 New",
+  "letter": "B",
+  "color1": "#2563eb",
+  "color2": "#0b1b4a",
+  "image": "",
+  "plans": [],
+  "about_bn": "Bolt.new ব্রাউজারেই প্রম্পট থেকে ফুল-স্ট্যাক ওয়েব অ্যাপ বানায় ও চালায়।",
+  "points_bn": [
+    "AI প্রম্পটে অ্যাপ তৈরি ও এডিট",
+    "ব্রাউজার থেকেই প্রিভিউ ও ডিপ্লয়",
+    "প্রোটোটাইপ ও ল্যান্ডিং পেজের জন্য ভালো"
+  ],
+  "about_en": "Bolt.new builds and runs full-stack web apps from a prompt in your browser.",
+  "points_en": [
+    "Generate and edit apps with AI prompts",
+    "Preview and deploy from the browser",
+    "Good for prototypes and landing pages"
+  ],
+  "order": 57
+}

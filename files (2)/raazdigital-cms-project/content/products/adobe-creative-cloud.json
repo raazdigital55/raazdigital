@@ -1,0 +1,31 @@
+{
+  "name": "Adobe Creative Cloud",
+  "category": "Subscription",
+  "price": 999,
+  "badge": "Best Seller",
+  "letter": "A",
+  "color1": "#e11d48",
+  "color2": "#7f1d1d",
+  "image": "",
+  "plans": [
+    {
+      "label": "1 Month",
+      "price": 999
+    }
+  ],
+  "about_bn": "Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom সহ Adobe-এর ২০+ ক্রিয়েটিভ অ্যাপ — ডিজাইন, ভিডিও ও ফটো এডিটিংয়ের সবকিছু এক জায়গায়।",
+  "points_bn": [
+    "Photoshop, Illustrator, InDesign",
+    "Premiere Pro ও After Effects দিয়ে ভিডিও এডিটিং",
+    "ক্লাউড স্টোরেজ ও Adobe Fonts",
+    "Windows ও Mac দুটোতেই ব্যবহারযোগ্য"
+  ],
+  "about_en": "20+ Adobe creative apps including Photoshop, Illustrator, Premiere Pro, After Effects and Lightroom — everything for design, video and photo editing in one place.",
+  "points_en": [
+    "Photoshop, Illustrator, InDesign",
+    "Video editing with Premiere Pro and After Effects",
+    "Cloud storage and Adobe Fonts",
+    "Works on both Windows and Mac"
+  ],
+  "order": 1
+}

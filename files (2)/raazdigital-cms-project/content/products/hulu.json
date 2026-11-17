@@ -1,0 +1,24 @@
+{
+  "name": "Hulu",
+  "category": "Streaming",
+  "price": 599,
+  "badge": "🆕 New",
+  "letter": "H",
+  "color1": "#1ce783",
+  "color2": "#0b6b3a",
+  "image": "",
+  "plans": [],
+  "about_bn": "Hulu-তে জনপ্রিয় টিভি শো, সিনেমা ও Hulu Originals চাহিদামতো দেখা যায়।",
+  "points_bn": [
+    "বর্তমান টিভি শো, সিনেমা ও Hulu Originals",
+    "প্ল্যান অনুযায়ী বিজ্ঞাপনসহ বা বিজ্ঞাপন ছাড়া",
+    "অঞ্চলভিত্তিক সার্ভিস — বাংলাদেশ থেকে ব্যবহারের নিয়ম WhatsApp-এ জেনে নিন"
+  ],
+  "about_en": "Hulu offers popular TV shows, movies and Hulu Originals on demand.",
+  "points_en": [
+    "Current TV shows, movies and Hulu Originals",
+    "Ad-supported or ad-free depending on the plan",
+    "Region-limited service — ask us on WhatsApp about access from Bangladesh"
+  ],
+  "order": 35
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Figma Professional",
+  "category": "Design & Creative",
+  "price": 1499,
+  "badge": "",
+  "letter": "F",
+  "color1": "#f24e1e",
+  "color2": "#7c1d6f",
+  "image": "",
+  "plans": [],
+  "about_bn": "Figma Professional — UI/UX ডিজাইন ও টিম কোলাবোরেশনের জন্য পেশাদার টুল।",
+  "points_bn": [
+    "UI/UX ডিজাইন ও প্রোটোটাইপ",
+    "রিয়েল-টাইম টিমওয়ার্ক",
+    "শেয়ার্ড লাইব্রেরি",
+    "ব্রাউজার ও অ্যাপে ব্যবহারযোগ্য"
+  ],
+  "about_en": "Figma Professional — a professional tool for UI/UX design and team collaboration.",
+  "points_en": [
+    "UI/UX design and prototyping",
+    "Real-time teamwork",
+    "Shared libraries",
+    "Works in browser and app"
+  ],
+  "order": 28
+}

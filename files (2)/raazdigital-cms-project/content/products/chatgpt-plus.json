@@ -1,0 +1,37 @@
+{
+  "name": "ChatGPT Plus",
+  "category": "AI & Education",
+  "price": 399,
+  "badge": "🎁 Special Offer",
+  "letter": "◎",
+  "color1": "#10a37f",
+  "color2": "#064e3b",
+  "image": "",
+  "plans": [
+    {
+      "label": "Shared · 1 Month",
+      "price": 399
+    },
+    {
+      "label": "Shared · 2 Months",
+      "price": 799
+    }
+  ],
+  "about_bn": "OpenAI-এর ChatGPT Plus — দ্রুত উত্তর, উন্নত মডেল, ফাইল ও ছবি বিশ্লেষণসহ আপনার ব্যক্তিগত AI সহকারী।",
+  "points_bn": [
+    "উন্নত মডেলে অ্যাক্সেস",
+    "ছবি তৈরি ও ফাইল আপলোড",
+    "ব্যস্ত সময়েও দ্রুত রেসপন্স",
+    "পড়াশোনা, লেখা ও কোডিংয়ে কার্যকর",
+    "শেয়ার্ড অ্যাকাউন্টে ১ বা ২ মাসের প্ল্যান"
+  ],
+  "about_en": "OpenAI's ChatGPT Plus — your personal AI assistant with fast replies, advanced models, and file and image analysis.",
+  "points_en": [
+    "Access to advanced models",
+    "Image creation and file uploads",
+    "Fast responses even at busy times",
+    "Effective for study, writing and coding",
+    "Shared account plans for 1 or 2 months"
+  ],
+  "order": 12
+}

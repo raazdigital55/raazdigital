@@ -1,0 +1,26 @@
+{
+  "name": "LinkedIn Premium",
+  "category": "Software & Productivity",
+  "price": null,
+  "badge": "",
+  "letter": "in",
+  "color1": "#0a66c2",
+  "color2": "#073b6e",
+  "image": "",
+  "plans": [],
+  "about_bn": "LinkedIn Premium দিয়ে ক্যারিয়ার ও নেটওয়ার্কিং আরও শক্তিশালী করুন। বিস্তারিত দামের জন্য WhatsApp-এ যোগাযোগ করুন।",
+  "points_bn": [
+    "কে প্রোফাইল দেখেছে তার ইনসাইট",
+    "InMail দিয়ে সরাসরি মেসেজ",
+    "জব ও স্যালারি ইনসাইট",
+    "ফ্রিল্যান্সার ও চাকরিপ্রার্থীদের জন্য উপযোগী"
+  ],
+  "about_en": "Strengthen your career and networking with LinkedIn Premium. Contact us on WhatsApp for pricing.",
+  "points_en": [
+    "Insights on who viewed your profile",
+    "Direct messaging with InMail",
+    "Job and salary insights",
+    "Useful for freelancers and job seekers"
+  ],
+  "order": 4
+}

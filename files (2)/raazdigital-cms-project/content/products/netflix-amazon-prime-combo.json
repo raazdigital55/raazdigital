@@ -1,0 +1,47 @@
+{
+  "name": "Netflix + Amazon Prime Combo",
+  "category": "Streaming",
+  "price": 380,
+  "badge": "🔥 Combo Deal",
+  "letter": "+",
+  "color1": "#e50914",
+  "color2": "#00a8e1",
+  "image": "/images/products/netflix-amazon-prime-combo.svg",
+  "plans": [
+    {
+      "label": "1 Month",
+      "price": 380
+    },
+    {
+      "label": "2 Months",
+      "price": 750
+    },
+    {
+      "label": "3 Months",
+      "price": 1150
+    },
+    {
+      "label": "6 Months",
+      "price": 2250
+    },
+    {
+      "label": "12 Months",
+      "price": 4299
+    }
+  ],
+  "about_bn": "Netflix + Amazon Prime কম্বো — দুটো সারা স্ট্রিমিং সার্ভিস এক প্যাকেজে, 4K কোয়ালিটিতে। আপনার সুবিধামতো প্ল্যান বেছে নিন।",
+  "points_bn": [
+    "Netflix ও Amazon Prime Video একসাথে",
+    "4K Video Quality",
+    "মোবাইল, ট্যাব, ল্যাপটপ ও টিভিতে দেখা যায়ে",
+    "যেকোনো সমস্যায় সাপোর্ট পাবেন"
+  ],
+  "about_en": "Netflix + Amazon Prime combo — two top streaming services in one package, in 4K quality. Choose the plan that suits you.",
+  "points_en": [
+    "Netflix and Amazon Prime Video together",
+    "4K video quality",
+    "Watch on mobile, tablet, laptop and TV",
+    "Support for any problem"
+  ],
+  "order": 17
+}

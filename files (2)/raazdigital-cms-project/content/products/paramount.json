@@ -1,0 +1,24 @@
+{
+  "name": "Paramount+",
+  "category": "Streaming",
+  "price": 299,
+  "badge": "🆕 New",
+  "letter": "P+",
+  "color1": "#0064ff",
+  "color2": "#001a66",
+  "image": "",
+  "plans": [],
+  "about_bn": "Paramount+ এ Paramount, Nickelodeon সহ আরও অনেকের সিনেমা, সিরিজ ও লাইভ কনটেন্ট দেখা যায়।",
+  "points_bn": [
+    "Paramount সিনেমা, সিরিজ ও ওরিজিনাল",
+    "Nickelodeon এর শিশুতোষ কনটেন্ট",
+    "অঞ্চলভিত্তিক সার্ভিস — বাংলাদেশ থেকে ব্যবহারের নিয়ম WhatsApp-এ জেনে নিন"
+  ],
+  "about_en": "Paramount+ streams movies, series and live content from Paramount, Nickelodeon and more.",
+  "points_en": [
+    "Paramount movies, series and originals",
+    "Kids content from Nickelodeon",
+    "Region-limited service — ask us on WhatsApp about access from Bangladesh"
+  ],
+  "order": 42
+}

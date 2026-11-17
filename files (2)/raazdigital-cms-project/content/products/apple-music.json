@@ -1,0 +1,24 @@
+{
+  "name": "Apple Music",
+  "category": "Streaming",
+  "price": 399,
+  "badge": "🆕 New",
+  "letter": "A",
+  "color1": "#fb2d55",
+  "color2": "#7a0f26",
+  "image": "",
+  "plans": [],
+  "about_bn": "Apple Music-এ বিশাল গানের সংগ্রহ, প্লেলিস্ট ও রেডিও পাওয়া যায়।",
+  "points_bn": [
+    "বিজ্ঞাপন ছাড়া মিউজিক স্ট্রিমিং",
+    "অফলাইনে শোনার জন্য গান ডাউনলোড",
+    "সমর্থিত ডিভাইসে Lossless ও Spatial Audio"
+  ],
+  "about_en": "Apple Music offers a huge catalogue of songs, playlists and radio.",
+  "points_en": [
+    "Ad-free music streaming",
+    "Download songs to listen offline",
+    "Lossless and Spatial Audio on supported devices"
+  ],
+  "order": 45
+}

@@ -1,0 +1,24 @@
+{
+  "name": "SuperGrok (Grok AI)",
+  "category": "AI & Education",
+  "price": 2999,
+  "badge": "🆕 New",
+  "letter": "G",
+  "color1": "#1f2937",
+  "color2": "#6b7280",
+  "image": "",
+  "plans": [],
+  "about_bn": "SuperGrok হলো xAI-এর Grok AI সহকারীর প্রিমিয়াম প্ল্যান।",
+  "points_bn": [
+    "উন্নত রিজনিংসহ দ্রুত AI উত্তর",
+    "লেখালেখি, গবেষণা ও কোডিংয়ে সাহায্য",
+    "ছবি বোঝা ও বেশি ব্যবহারের সীমা"
+  ],
+  "about_en": "SuperGrok is xAI's premium plan for the Grok AI assistant.",
+  "points_en": [
+    "Fast AI answers with advanced reasoning",
+    "Help with writing, research and coding",
+    "Image understanding and higher usage limits"
+  ],
+  "order": 53
+}

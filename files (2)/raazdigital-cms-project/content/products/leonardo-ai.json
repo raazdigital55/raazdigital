@@ -1,0 +1,24 @@
+{
+  "name": "Leonardo AI",
+  "category": "AI & Education",
+  "price": 1799,
+  "badge": "🆕 New",
+  "letter": "L",
+  "color1": "#7c3aed",
+  "color2": "#1e1b4b",
+  "image": "",
+  "plans": [],
+  "about_bn": "Leonardo AI টেক্সট লিখে ছবি ও আর্ট তৈরি করে।",
+  "points_bn": [
+    "বিভিন্ন আর্ট স্টাইলে AI ছবি তৈরি",
+    "হাই-রেজোলিউশন আউটপুট ও এডিটিং টুল",
+    "ডিজাইন, সোশ্যাল মিডিয়া ও ব্র্যান্ডিংয়ে কাজের"
+  ],
+  "about_en": "Leonardo AI generates images and art from text prompts.",
+  "points_en": [
+    "AI image generation in many art styles",
+    "High-resolution output and editing tools",
+    "Useful for design, social media and branding"
+  ],
+  "order": 54
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Zoom Pro",
+  "category": "Software & Productivity",
+  "price": 699,
+  "badge": "",
+  "letter": "Z",
+  "color1": "#2563eb",
+  "color2": "#1e3a8a",
+  "image": "",
+  "plans": [
+    {
+      "label": "1 Month",
+      "price": 699
+    },
+    {
+      "label": "2 Months",
+      "price": 1399
+    }
+  ],
+  "about_bn": "Zoom Pro দিয়ে বড় ও লম্বা মিটিং, ক্লাসের জন্য আদর্শ। রেকর্ডিং ও অতিরিক্ত ফিচার সহ।",
+  "points_bn": [
+    "লম্বা সময়ের মিটিং",
+    "বেশি অংশগ্রহণকারী",
+    "মিটিং রেকর্ডিং",
+    "অনলাইন ক্লাস ও ওয়েবিনারের জন্য উপযোগী"
+  ],
+  "about_en": "Zoom Pro for long, large meetings and classes, with recording and extra features.",
+  "points_en": [
+    "Long-duration meetings",
+    "More participants",
+    "Meeting recording",
+    "Great for online classes and webinars"
+  ],
+  "order": 3
+}

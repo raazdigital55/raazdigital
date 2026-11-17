@@ -1,0 +1,24 @@
+{
+  "name": "ElevenLabs",
+  "category": "AI & Education",
+  "price": 899,
+  "badge": "🆕 New",
+  "letter": "E",
+  "color1": "#3f3f46",
+  "color2": "#09090b",
+  "image": "",
+  "plans": [],
+  "about_bn": "ElevenLabs লেখাকে স্বাভাবিক AI কণ্ঠে রূপান্তর করে।",
+  "points_bn": [
+    "অনেক ভাষায় বাস্তবসম্মত AI টেক্সট-টু-স্পিচ",
+    "একাধিক কণ্ঠ ও স্টাইল",
+    "ভিডিও, অডিওবুক ও কোর্সের জন্য (বাণিজ্যিক ব্যবহারের নিয়ম প্ল্যানে দেখুন)"
+  ],
+  "about_en": "ElevenLabs turns text into natural-sounding AI voices.",
+  "points_en": [
+    "Realistic AI text-to-speech in many languages",
+    "Multiple voices and styles",
+    "For videos, audiobooks and courses (check plan terms for commercial use)"
+  ],
+  "order": 58
+}

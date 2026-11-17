@@ -1,0 +1,26 @@
+{
+  "name": "Grammarly Premium",
+  "category": "AI & Education",
+  "price": 499,
+  "badge": "",
+  "letter": "G",
+  "color1": "#15a06b",
+  "color2": "#065f46",
+  "image": "",
+  "plans": [],
+  "about_bn": "Grammarly Premium — ইংরেজি লেখার ভুল ঠিক করুন এবং লেখা আরও স্পষ্ট ও পেশাদার করুন।",
+  "points_bn": [
+    "গ্রামার ও বানান সংশোধন",
+    "টোন ও স্টাইল সাজেশন",
+    "প্ল্যাজিয়ারিজম চেক",
+    "ব্রাউজার ও ডকুমেন্টে ব্যবহারযোগ্য"
+  ],
+  "about_en": "Grammarly Premium — fix English writing mistakes and make your writing clearer and more professional.",
+  "points_en": [
+    "Grammar and spelling correction",
+    "Tone and style suggestions",
+    "Plagiarism check",
+    "Works in browsers and documents"
+  ],
+  "order": 22
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Skillshare Premium",
+  "category": "AI & Education",
+  "price": 599,
+  "badge": "🆕 New",
+  "letter": "S",
+  "color1": "#00b894",
+  "color2": "#06453a",
+  "image": "",
+  "plans": [],
+  "about_bn": "Skillshare Premium-এ ডিজাইন, ভিডিও, লেখালেখি ও বিজনেসের হাজার হাজার ক্লাস পাওয়া যায়।",
+  "points_bn": [
+    "ডিজাইন, ভিডিও, লেখালেখি ও বিজনেসের ক্লাস",
+    "যেকোনো ডিভাইসে নিজের গতিতে শেখা",
+    "ক্লাস প্রজেক্ট ও কমিউনিটির মতামত"
+  ],
+  "about_en": "Skillshare Premium unlocks thousands of creative and business classes.",
+  "points_en": [
+    "Classes in design, video, writing and business",
+    "Learn at your own pace on any device",
+    "Class projects and community feedback"
+  ],
+  "order": 48
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ESPN+",
+  "category": "Streaming",
+  "price": 599,
+  "badge": "🆕 New",
+  "letter": "E",
+  "color1": "#d00000",
+  "color2": "#5a0000",
+  "image": "",
+  "plans": [],
+  "about_bn": "ESPN+ হলো স্পোর্টস স্ট্রিমিং সার্ভিস, যেখানে লাইভ খেলা, ওরিজিনাল ও অন-ডিমান্ড কনটেন্ট পাওয়া যায়।",
+  "points_bn": [
+    "লাইভ স্পোর্টস ইভেন্ট ও ম্যাচ",
+    "ওরিজিনাল স্পোর্টস শো ও ডকুমেন্টারি",
+    "অঞ্চলভিত্তিক সার্ভিস — বাংলাদেশ থেকে ব্যবহারের নিয়ম WhatsApp-এ জেনে নিন"
+  ],
+  "about_en": "ESPN+ is a sports streaming service with live games, originals and on-demand content.",
+  "points_en": [
+    "Live sports events and matches",
+    "Original sports shows and documentaries",
+    "Region-limited service — ask us on WhatsApp about access from Bangladesh"
+  ],
+  "order": 37
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Google Drive Storage",
+  "category": "Subscription",
+  "price": 1500,
+  "badge": "",
+  "letter": "▲",
+  "color1": "#16a34a",
+  "color2": "#14532d",
+  "image": "",
+  "plans": [],
+  "about_bn": "Google Drive-এ বাড়তি স্টোরেজ — ফটো, ডকুমেন্ট ও ব্যাকআপ নিশ্চিন্তে রাখুন।",
+  "points_bn": [
+    "Drive, Gmail ও Photos জুড়ে শেয়ার্ড স্টোরেজ",
+    "যেকোনো ডিভাইস থেকে অ্যাক্সেস",
+    "অটো ব্যাকআপ",
+    "সহজে ফাইল শেয়ার"
+  ],
+  "about_en": "Extra storage on Google Drive — keep your photos, documents and backups safe.",
+  "points_en": [
+    "Shared storage across Drive, Gmail and Photos",
+    "Access from any device",
+    "Automatic backup",
+    "Easy file sharing"
+  ],
+  "order": 8
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Epidemic Sound",
+  "category": "Design & Creative",
+  "price": 599,
+  "badge": "🆕 New",
+  "letter": "E",
+  "color1": "#14b8a6",
+  "color2": "#0f3d38",
+  "image": "",
+  "plans": [],
+  "about_bn": "Epidemic Sound কনটেন্ট ক্রিয়েটরদের জন্য মিউজিক ও সাউন্ড ইফেক্টের লাইব্রেরি।",
+  "points_bn": [
+    "মিউজিক ও সাউন্ড ইফেক্টের বিশাল লাইব্রেরি",
+    "YouTube, Reels ও ভিডিও প্রজেক্টের জন্য",
+    "লাইসেন্সের শর্ত প্রযোজ্য — প্ল্যান অনুযায়ী অধিকার দেখে নিন"
+  ],
+  "about_en": "Epidemic Sound is a music and sound-effects library for content creators.",
+  "points_en": [
+    "Large library of music and sound effects",
+    "Made for YouTube, Reels and video projects",
+    "Licence terms apply — check usage rights for your plan"
+  ],
+  "order": 64
+}

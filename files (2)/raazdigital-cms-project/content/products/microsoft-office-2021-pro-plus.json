@@ -1,0 +1,26 @@
+{
+  "name": "Microsoft Office 2021 Pro Plus",
+  "category": "Microsoft Office",
+  "price": 1200,
+  "badge": "Lifetime",
+  "letter": "O",
+  "color1": "#d83b01",
+  "color2": "#7a1f00",
+  "image": "",
+  "plans": [],
+  "about_bn": "Microsoft Office 2021 Pro Plus — Word, Excel, PowerPoint সহ পূর্ণ অফিস প্যাকেজ।",
+  "points_bn": [
+    "Word, Excel, PowerPoint, Outlook",
+    "অফলাইনে কাজ করা যায়",
+    "লাইসেন্স কী দিয়ে অ্যাক্টিভেশন",
+    "পড়াশোনা ও অফিসের জন্য উপযোগী"
+  ],
+  "about_en": "Microsoft Office 2021 Pro Plus — the complete office suite including Word, Excel and PowerPoint.",
+  "points_en": [
+    "Word, Excel, PowerPoint, Outlook",
+    "Works offline",
+    "Activation with a license key",
+    "Suitable for study and office"
+  ],
+  "order": 29
+}

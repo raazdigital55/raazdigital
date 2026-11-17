@@ -1,0 +1,24 @@
+{
+  "name": "iLovePDF Premium",
+  "category": "Software & Productivity",
+  "price": 799,
+  "badge": "🆕 New",
+  "letter": "I",
+  "color1": "#e11d48",
+  "color2": "#4c0519",
+  "image": "",
+  "plans": [],
+  "about_bn": "iLovePDF Premium-এ PDF মার্জ, স্প্লিট, কম্প্রেস ও কনভার্টের সীমা বেশি পাওয়া যায়।",
+  "points_bn": [
+    "PDF মার্জ, স্প্লিট, কম্প্রেস ও কনভার্ট",
+    "বড় ফাইল ও ব্যাচ প্রসেসিং",
+    "ব্রাউজার ও ডেস্কটপ অ্যাপে চলে"
+  ],
+  "about_en": "iLovePDF Premium unlocks higher limits for merging, splitting, compressing and converting PDFs.",
+  "points_en": [
+    "Merge, split, compress and convert PDFs",
+    "Larger files and batch processing",
+    "Works in the browser and desktop apps"
+  ],
+  "order": 61
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ollama Pro",
+  "category": "AI & Education",
+  "price": 3499,
+  "badge": "🆕 New",
+  "letter": "O",
+  "color1": "#334155",
+  "color2": "#0f172a",
+  "image": "",
+  "plans": [],
+  "about_bn": "Ollama Pro হলো Ollama AI প্ল্যাটফর্মের পেইড প্ল্যান, যেখানে ব্যবহারের সীমা বেশি।",
+  "points_bn": [
+    "ওপেন AI মডেল চালানো ও ব্যবহার",
+    "ফ্রি প্ল্যানের চেয়ে বেশি সীমা",
+    "ডেভেলপার ও AI শিক্ষার্থীদের কাজের"
+  ],
+  "about_en": "Ollama Pro is a paid plan for the Ollama AI platform with higher usage limits.",
+  "points_en": [
+    "Run and use open AI models",
+    "Higher limits than the free plan",
+    "Handy for developers and AI learners"
+  ],
+  "order": 59
+}

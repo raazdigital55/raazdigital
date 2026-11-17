@@ -1,0 +1,26 @@
+{
+  "name": "Surfshark VPN",
+  "category": "VPN & Security",
+  "price": 450,
+  "badge": "",
+  "letter": "S",
+  "color1": "#1eb8c4",
+  "color2": "#0a3e47",
+  "image": "",
+  "plans": [],
+  "about_bn": "Surfshark VPN — সাশ্রয়ী দামে নিরাপদ ব্রাউজিং ও প্রাইভেসি।",
+  "points_bn": [
+    "দ্রুত ও নিরাপদ সংযোগ",
+    "বহু দেশে সার্ভার",
+    "বিজ্ঞাপন ব্লকার",
+    "সব প্রধান ডিভাইসে অ্যাপ"
+  ],
+  "about_en": "Surfshark VPN — secure browsing and privacy at an affordable price.",
+  "points_en": [
+    "Fast and secure connection",
+    "Servers in many countries",
+    "Ad blocker",
+    "Apps for all major devices"
+  ],
+  "order": 33
+}

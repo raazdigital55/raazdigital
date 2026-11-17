@@ -1,0 +1,24 @@
+{
+  "name": "TradingView",
+  "category": "Software & Productivity",
+  "price": 3199,
+  "badge": "🆕 New",
+  "letter": "T",
+  "color1": "#2962ff",
+  "color2": "#0a1f6b",
+  "image": "",
+  "plans": [],
+  "about_bn": "TradingView ট্রেডার ও শিক্ষার্থীদের জন্য উন্নত চার্ট, ইন্ডিকেটর ও মার্কেট ডেটা দেয়।",
+  "points_bn": [
+    "উন্নত চার্ট ও ১০০+ ইন্ডিকেটর",
+    "প্রাইস অ্যালার্ট ও কাস্টম ওয়াচলিস্ট",
+    "ওয়েব, ডেস্কটপ ও মোবাইলে চলে"
+  ],
+  "about_en": "TradingView offers advanced charts, indicators and market data for traders and learners.",
+  "points_en": [
+    "Advanced charts and 100+ indicators",
+    "Price alerts and custom watchlists",
+    "Works on web, desktop and mobile"
+  ],
+  "order": 62
+}

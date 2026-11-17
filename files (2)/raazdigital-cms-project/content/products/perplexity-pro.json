@@ -1,0 +1,26 @@
+{
+  "name": "Perplexity Pro",
+  "category": "AI & Education",
+  "price": 599,
+  "badge": "🔥 Hot",
+  "letter": "P",
+  "color1": "#20808d",
+  "color2": "#0b3b42",
+  "image": "",
+  "plans": [],
+  "about_bn": "Perplexity Pro — রিসার্চ ও প্রশ্নোত্তরের জন্য AI সার্চ ইঞ্জিন, উৎসসহ উত্তর দেয়।",
+  "points_bn": [
+    "উৎসসহ দ্রুত উত্তর",
+    "উন্নত AI মডেলে অ্যাক্সেস",
+    "ফাইল আপলোড ও বিশ্লেষণ",
+    "পড়াশোনা ও গবেষণায় কার্যকর"
+  ],
+  "about_en": "Perplexity Pro — an AI search engine for research and Q&A that answers with sources.",
+  "points_en": [
+    "Fast answers with sources",
+    "Access to advanced AI models",
+    "File upload and analysis",
+    "Useful for study and research"
+  ],
+  "order": 19
+}

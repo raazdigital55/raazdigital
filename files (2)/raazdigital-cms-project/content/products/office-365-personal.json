@@ -1,0 +1,31 @@
+{
+  "name": "Office 365 Personal",
+  "category": "Microsoft Office",
+  "price": 1999,
+  "badge": "",
+  "letter": "O",
+  "color1": "#ea580c",
+  "color2": "#9a3412",
+  "image": "",
+  "plans": [
+    {
+      "label": "12 Months",
+      "price": 1999
+    }
+  ],
+  "about_bn": "Word, Excel, PowerPoint, Outlook-এর পূর্ণ সংস্করণ এবং ১ টিবি OneDrive ক্লাউড স্টোরেজ — পড়াশোনা ও অফিসের কাজের জন্য।",
+  "points_bn": [
+    "Word, Excel, PowerPoint, Outlook",
+    "১ টিবি OneDrive স্টোরেজ",
+    "সবসময় আপডেটেড সংস্করণ",
+    "পিসি, ম্যাক ও মোবাইলে চলে"
+  ],
+  "about_en": "Full versions of Word, Excel, PowerPoint and Outlook plus 1 TB of OneDrive cloud storage — for study and office work.",
+  "points_en": [
+    "Word, Excel, PowerPoint, Outlook",
+    "1 TB OneDrive storage",
+    "Always up-to-date versions",
+    "Works on PC, Mac and mobile"
+  ],
+  "order": 2
+}

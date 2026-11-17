@@ -1,0 +1,24 @@
+{
+  "name": "Crunchyroll",
+  "category": "Streaming",
+  "price": 249,
+  "badge": "🆕 New",
+  "letter": "C",
+  "color1": "#f47521",
+  "color2": "#7c2d12",
+  "image": "",
+  "plans": [],
+  "about_bn": "Crunchyroll হলো জনপ্রিয় অ্যানিমে স্ট্রিমিং সার্ভিস।",
+  "points_bn": [
+    "নতুন সিমুলকাস্টসহ বিশাল অ্যানিমে লাইব্রেরি",
+    "প্রিমিয়াম প্ল্যানে বিজ্ঞাপন ছাড়া দেখা",
+    "ফোন, ট্যাব, পিসি ও টিভিতে দেখা যায়"
+  ],
+  "about_en": "Crunchyroll is a leading anime streaming service.",
+  "points_en": [
+    "Large anime library including new simulcasts",
+    "Ad-free viewing on premium plans",
+    "Watch on phone, tablet, PC and TV"
+  ],
+  "order": 41
+}

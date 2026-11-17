@@ -1,0 +1,35 @@
+{
+  "name": "Claude AI",
+  "category": "Subscription",
+  "price": 2850,
+  "badge": "🎁 Special Offer",
+  "letter": "✳",
+  "color1": "#d97757",
+  "color2": "#7c2d12",
+  "image": "",
+  "plans": [
+    {
+      "label": "1 Month",
+      "price": 2850
+    },
+    {
+      "label": "2 Months",
+      "price": 5550
+    }
+  ],
+  "about_bn": "Anthropic-এর AI অ্যাসিস্ট্যান্ট Claude — লেখালেখি, কোডিং, বিশ্লেষণ ও দৈনন্দিন কাজে সহায়ক, বেশি ব্যবহারের সীমা সহ।",
+  "points_bn": [
+    "লেখা, সারাংশ ও অনুবাদ",
+    "কোডিংয়ে সাহায্য",
+    "ডকুমেন্ট ও ছবি বিশ্লেষণ",
+    "ফ্রি প্ল্যানের চেয়ে বেশি ব্যবহারের সীমা"
+  ],
+  "about_en": "Claude, Anthropic's AI assistant — helps with writing, coding, analysis and everyday tasks, with higher usage limits.",
+  "points_en": [
+    "Writing, summaries and translation",
+    "Help with coding",
+    "Document and image analysis",
+    "Higher usage limits than the free plan"
+  ],
+  "order": 9
+}

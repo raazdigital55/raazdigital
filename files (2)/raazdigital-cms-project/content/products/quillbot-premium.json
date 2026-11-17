@@ -1,0 +1,26 @@
+{
+  "name": "QuillBot Premium",
+  "category": "AI & Education",
+  "price": 450,
+  "badge": "",
+  "letter": "Q",
+  "color1": "#3d9a50",
+  "color2": "#14532d",
+  "image": "",
+  "plans": [],
+  "about_bn": "QuillBot Premium — প্যারাফ্রেজ, সারাংশ ও গ্রামার চেকের জন্য লেখার সহকারী।",
+  "points_bn": [
+    "প্যারাফ্রেজিং টুল",
+    "সারাংশ তৈরি",
+    "গ্রামার চেকার",
+    "শিক্ষার্থী ও লেখকদের জন্য উপযোগী"
+  ],
+  "about_en": "QuillBot Premium — a writing assistant for paraphrasing, summarizing and grammar checking.",
+  "points_en": [
+    "Paraphrasing tool",
+    "Summary generation",
+    "Grammar checker",
+    "Great for students and writers"
+  ],
+  "order": 23
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Kittl AI Expert",
+  "category": "Design & Creative",
+  "price": 1999,
+  "badge": "🆕 New",
+  "letter": "K",
+  "color1": "#ec4899",
+  "color2": "#3b0a2a",
+  "image": "",
+  "plans": [],
+  "about_bn": "Kittl লোগো, পোস্টার ও প্রিন্ট-রেডি গ্রাফিক্সের জন্য AI সুবিধাসহ অনলাইন ডিজাইন টুল।",
+  "points_bn": [
+    "টেমপ্লেট, ফন্ট ও AI ডিজাইন টুল",
+    "PNG, JPG, SVG ও PDF এক্সপোর্ট",
+    "ব্র্যান্ড কালার ও ব্যাকগ্রাউন্ড রিমুভার"
+  ],
+  "about_en": "Kittl is an online design tool for logos, posters and print-ready graphics with AI features.",
+  "points_en": [
+    "Templates, fonts and AI design tools",
+    "Export in PNG, JPG, SVG and PDF",
+    "Brand colours and background remover"
+  ],
+  "order": 63
+}

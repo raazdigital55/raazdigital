@@ -1,0 +1,47 @@
+{
+  "name": "Netflix 4K",
+  "category": "Streaming",
+  "price": 280,
+  "badge": "📺 4K Ultra HD",
+  "letter": "N",
+  "color1": "#e50914",
+  "color2": "#7f0a0e",
+  "image": "/images/products/netflix-4k.svg",
+  "plans": [
+    {
+      "label": "1 Month",
+      "price": 280
+    },
+    {
+      "label": "2 Months",
+      "price": 550
+    },
+    {
+      "label": "3 Months",
+      "price": 810
+    },
+    {
+      "label": "6 Months",
+      "price": 1590
+    },
+    {
+      "label": "12 Months",
+      "price": 3050
+    }
+  ],
+  "about_bn": "Netflix 4K (Ultra HD) — সিনেমা, সিরিজ ও ডকুমেন্টারি সেরা কোয়ালিটিতে দেখুন। আপনার পছন্দের প্ল্যান বেছে নিন।",
+  "points_bn": [
+    "4K Ultra HD কোয়ালিটি",
+    "সিনেমা, সিরিজ, ডকুমেন্টারি ও কিডস কনটেন্ট",
+    "মোবাইল, ট্যাব, ল্যাপটপ ও টিভিতে দেখা যায়",
+    "Full Time Support"
+  ],
+  "about_en": "Netflix 4K (Ultra HD) — watch movies, series and documentaries in the best quality. Choose the plan you like.",
+  "points_en": [
+    "4K Ultra HD quality",
+    "Movies, series, documentaries and kids content",
+    "Watch on mobile, tablet, laptop and TV",
+    "Full-time support"
+  ],
+  "order": 13
+}

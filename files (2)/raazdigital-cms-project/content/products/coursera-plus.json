@@ -1,0 +1,35 @@
+{
+  "name": "Coursera Plus",
+  "category": "Subscription",
+  "price": 1350,
+  "badge": "👑 Exclusive",
+  "letter": "C",
+  "color1": "#2563eb",
+  "color2": "#172554",
+  "image": "",
+  "plans": [
+    {
+      "label": "6 Months",
+      "price": 1350
+    },
+    {
+      "label": "12 Months",
+      "price": 2150
+    }
+  ],
+  "about_bn": "Coursera Plus-এর মাধ্যমে হাজার হাজার কোর্স, প্রফেশনাল সার্টিফিকেট ও স্পেশালাইজেশনে অ্যাক্সেস পান।",
+  "points_bn": [
+    "বিশ্বের নামী বিশ্ববিদ্যালয় ও কোম্পানির কোর্স",
+    "সার্টিফিকেট অর্জনের সুযোগ",
+    "নিজের গতিতে শেখার স্বাধীনতা",
+    "স্কিল ডেভেলপমেন্টের জন্য আদর্শ"
+  ],
+  "about_en": "Get access to thousands of courses, professional certificates and specializations with Coursera Plus.",
+  "points_en": [
+    "Courses from top universities and companies",
+    "Chance to earn certificates",
+    "Learn at your own pace",
+    "Ideal for skill development"
+  ],
+  "order": 6
+}

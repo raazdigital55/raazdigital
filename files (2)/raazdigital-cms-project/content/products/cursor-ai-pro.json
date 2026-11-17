@@ -1,0 +1,24 @@
+{
+  "name": "Cursor AI Pro",
+  "category": "AI & Education",
+  "price": 1799,
+  "badge": "🆕 New",
+  "letter": "C",
+  "color1": "#334155",
+  "color2": "#0f172a",
+  "image": "",
+  "plans": [],
+  "about_bn": "Cursor একটি AI-ভিত্তিক কোড এডিটর, যা দ্রুত কোড লিখতে ও রিফ্যাক্টর করতে সাহায্য করে।",
+  "points_bn": [
+    "AI কোড কমপ্লিশন ও মাল্টি-ফাইল এডিটিং",
+    "আপনার কোডবেসের সাথে চ্যাট",
+    "শীর্ষস্থানীয় AI মডেল (প্ল্যান অনুযায়ী)"
+  ],
+  "about_en": "Cursor is an AI-first code editor that helps you write and refactor code faster.",
+  "points_en": [
+    "AI code completion and multi-file editing",
+    "Chat with your codebase",
+    "Leading AI models (varies by plan)"
+  ],
+  "order": 52
+}

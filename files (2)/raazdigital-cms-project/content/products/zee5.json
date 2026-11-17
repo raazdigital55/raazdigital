@@ -1,0 +1,24 @@
+{
+  "name": "ZEE5",
+  "category": "Streaming",
+  "price": 499,
+  "badge": "🆕 New",
+  "letter": "Z",
+  "color1": "#7b2cbf",
+  "color2": "#240046",
+  "image": "",
+  "plans": [],
+  "about_bn": "ZEE5-এ ভারতীয় সিনেমা, ওয়েব সিরিজ, টিভি শো ও লাইভ চ্যানেল পাওয়া যায়।",
+  "points_bn": [
+    "হিন্দি, বাংলা ও আঞ্চলিক সিনেমা ও ওরিজিনাল",
+    "জনপ্রিয় টিভি সিরিয়াল ও লাইভ চ্যানেল",
+    "অঞ্চলভিত্তিক সার্ভিস — বাংলাদেশ থেকে ব্যবহারের নিয়ম WhatsApp-এ জেনে নিন"
+  ],
+  "about_en": "ZEE5 offers Indian movies, web series, TV shows and live channels.",
+  "points_en": [
+    "Hindi, Bengali and regional movies and originals",
+    "Popular TV serials and live channels",
+    "Region-limited service — ask us on WhatsApp about access from Bangladesh"
+  ],
+  "order": 39
+}

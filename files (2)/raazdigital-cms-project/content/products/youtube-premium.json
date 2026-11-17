@@ -1,0 +1,43 @@
+{
+  "name": "YouTube Premium",
+  "category": "Streaming",
+  "price": 180,
+  "badge": "👤 Personal Account",
+  "letter": "▶",
+  "color1": "#ff0000",
+  "color2": "#7a0000",
+  "image": "/images/products/youtube-premium.svg",
+  "plans": [
+    {
+      "label": "1 Month",
+      "price": 180
+    },
+    {
+      "label": "3 Months",
+      "price": 550
+    },
+    {
+      "label": "6 Months",
+      "price": 1050
+    },
+    {
+      "label": "12 Months",
+      "price": 1950
+    }
+  ],
+  "about_bn": "YouTube Premium — বিজ্ঞাপনমুক্ত ভিডিও ও YouTube Music উপভোগ করুন, ব্যক্তিগত (Personal) অ্যাকাউন্টে। আপনার পছন্দের প্ল্যান বেছে নিন।",
+  "points_bn": [
+    "Personal Account",
+    "বিজ্ঞাপন ছাড়া ভিডিও দেখা",
+    "ব্যাকগ্রাউন্ড প্লে ও YouTube Music",
+    "যেকোনো সমস্যায় সাপোর্ট পাবেন"
+  ],
+  "about_en": "YouTube Premium — enjoy ad-free videos and YouTube Music on a personal account. Choose the plan you like.",
+  "points_en": [
+    "Personal account",
+    "Ad-free video",
+    "Background play and YouTube Music",
+    "Support for any problem"
+  ],
+  "order": 15
+}

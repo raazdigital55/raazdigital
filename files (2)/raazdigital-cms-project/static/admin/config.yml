@@ -1,0 +1,98 @@
+# ═══ Dashboard settings (Sveltia CMS / Decap-compatible) ═══
+# ONLY CHANGE the repo line below to  your-github-username/your-repo-name
+backend:
+  name: github
+  repo: YOUR_GITHUB_USERNAME/raazdigital-site
+  branch: main
+
+publish_mode: simple
+media_folder: static/images/uploads
+public_folder: /images/uploads
+logo_url: /images/products/netflix-4k.svg
+show_preview: false
+
+collections:
+  - name: products
+    label: "প্রোডাক্ট (Products)"
+    label_singular: "Product"
+    folder: content/products
+    create: true
+    format: json
+    extension: json
+    identifier_field: name
+    summary: "{{name}} — ৳{{price}} — {{category}}"
+    sortable_fields: [name, category, price, order]
+    fields:
+      - { label: "Product name", name: name, widget: string, hint: "e.g. Netflix 4K. This becomes the page address, so avoid renaming later." }
+      - label: "Category"
+        name: category
+        widget: select
+        options:
+          - "Streaming"
+          - "AI & Education"
+          - "Subscription"
+          - "Software & Productivity"
+          - "Design & Creative"
+          - "VPN & Security"
+          - "Microsoft Office"
+          - "Windows"
+        hint: "Pick where it appears on the site."
+      - { label: "Price (BDT)", name: price, widget: number, value_type: int, min: 0, required: false, hint: "Starting price in taka. Leave empty to show 'Contact us'. If you add Plans below, plan prices are used." }
+      - label: "Plans / durations / Shared–Private prices"
+        name: plans
+        widget: list
+        required: false
+        summary: "{{fields.label}} — ৳{{fields.price}}"
+        hint: "e.g. 'Shared · 1 Month' = 299 and 'Private · 1 Month' = 699. Put the cheapest first."
+        fields:
+          - { label: "Plan name", name: label, widget: string }
+          - { label: "Price (BDT)", name: price, widget: number, value_type: int, min: 0 }
+      - { label: "Badge (small tag)", name: badge, widget: string, required: false, hint: "e.g. Best Seller. Leave empty for none." }
+      - { label: "Picture", name: image, widget: image, required: false, hint: "Optional. If empty, a coloured tile with the name is created automatically." }
+      - { label: "Tile letter", name: letter, widget: string, required: false, hint: "Big letter on the automatic tile, e.g. N" }
+      - { label: "Tile colour 1", name: color1, widget: color, required: false }
+      - { label: "Tile colour 2", name: color2, widget: color, required: false }
+      - { label: "Description (বাংলা)", name: about_bn, widget: text, required: false }
+      - { label: "Benefits (বাংলা)", name: points_bn, widget: list, required: false, field: { label: "Benefit", name: point, widget: string } }
+      - { label: "Description (English)", name: about_en, widget: text, required: false }
+      - { label: "Benefits (English)", name: points_en, widget: list, required: false, field: { label: "Benefit", name: point, widget: string } }
+      - { label: "Order on the site (small number = earlier)", name: order, widget: number, value_type: int, default: 999, required: false }
+
+  - name: settings
+    label: "সাইট সেটিংস (Settings)"
+    files:
+      - name: general
+        label: "Phone, address, payment & more"
+        file: content/settings.json
+        format: json
+        fields:
+          - { label: "Site name", name: brand, widget: string }
+          - { label: "WhatsApp number", name: whatsapp, widget: string, hint: "With country code, no + sign. e.g. 8801325977732" }
+          - { label: "Phone shown on the site", name: phoneShown, widget: string }
+          - { label: "Payment number (bKash/Nagad/Rocket)", name: bkash, widget: string }
+          - { label: "Email", name: email, widget: string }
+          - { label: "Address (English)", name: address, widget: string }
+          - { label: "Address (বাংলা)", name: addressBn, widget: string }
+          - { label: "Working hours", name: hours, widget: string }
+          - { label: "1 USD = how many BDT", name: usdRate, widget: number, value_type: int, min: 1 }
+          - { label: "Home country code", name: homeCountry, widget: string, hint: "BD = Bangladesh visitors see Bangla + taka; everyone else English + dollars." }
+          - { label: "Website address", name: siteUrl, widget: string, hint: "e.g. https://raazdigital.pages.dev (used for the sitemap)" }
+          - { label: "Popular Picks (exact product names)", name: popular, widget: list, field: { label: "Product name", name: n, widget: string } }
+          - { label: "Streaming: show these first", name: streamingFirst, widget: list, field: { label: "Product name", name: n, widget: string } }
+          - label: "Login (Firebase) — advanced"
+            name: firebase
+            widget: object
+            collapsed: true
+            fields:
+              - { label: "apiKey", name: apiKey, widget: string, required: false }
+              - { label: "authDomain", name: authDomain, widget: string, required: false }
+              - { label: "projectId", name: projectId, widget: string, required: false }
+              - { label: "appId", name: appId, widget: string, required: false }
+          - label: "New-account email (EmailJS) — advanced"
+            name: emailjs
+            widget: object
+            collapsed: true
+            fields:
+              - { label: "serviceId", name: serviceId, widget: string, required: false }
+              - { label: "templateId", name: templateId, widget: string, required: false }
+              - { label: "publicKey", name: publicKey, widget: string, required: false }

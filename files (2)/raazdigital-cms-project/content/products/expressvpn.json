@@ -1,0 +1,26 @@
+{
+  "name": "ExpressVPN",
+  "category": "VPN & Security",
+  "price": 699,
+  "badge": "",
+  "letter": "E",
+  "color1": "#da3940",
+  "color2": "#6b1218",
+  "image": "",
+  "plans": [],
+  "about_bn": "ExpressVPN — স্থিতিশীল সংযোগ ও শক্তিশালী এনক্রিপশনসহ প্রিমিয়াম VPN।",
+  "points_bn": [
+    "শক্তিশালী এনক্রিপশন",
+    "স্থিতিশীল সংযোগ",
+    "বহু দেশে সার্ভার",
+    "সব প্রধান ডিভাইসে অ্যাপ"
+  ],
+  "about_en": "ExpressVPN — a premium VPN with a stable connection and strong encryption.",
+  "points_en": [
+    "Strong encryption",
+    "Stable connection",
+    "Servers in many countries",
+    "Apps for all major devices"
+  ],
+  "order": 32
+}

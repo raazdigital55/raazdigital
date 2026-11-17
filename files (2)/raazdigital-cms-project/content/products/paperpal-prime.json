@@ -1,0 +1,24 @@
+{
+  "name": "Paperpal Prime",
+  "category": "AI & Education",
+  "price": 999,
+  "badge": "🆕 New",
+  "letter": "P",
+  "color1": "#4f46e5",
+  "color2": "#1e1b4b",
+  "image": "",
+  "plans": [],
+  "about_bn": "Paperpal একাডেমিক পেপারের জন্য তৈরি AI রাইটিং সহকারী।",
+  "points_bn": [
+    "একাডেমিক গ্রামার, ভাষা ও টোন সংশোধন",
+    "প্যারাফ্রেজ ও লেখার পরামর্শ",
+    "Word, Google Docs ও Overleaf-এ কাজ করে"
+  ],
+  "about_en": "Paperpal is an AI writing assistant made for academic papers.",
+  "points_en": [
+    "Academic grammar, language and tone correction",
+    "Paraphrasing and writing suggestions",
+    "Works with Word, Google Docs and Overleaf"
+  ],
+  "order": 50
+}

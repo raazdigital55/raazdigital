@@ -1,0 +1,26 @@
+{
+  "name": "Disney+ Hotstar",
+  "category": "Streaming",
+  "price": 250,
+  "badge": "🎬 Premium",
+  "letter": "D+",
+  "color1": "#0b2a6f",
+  "color2": "#030b24",
+  "image": "",
+  "plans": [],
+  "about_bn": "Disney+ Hotstar — সিনেমা, সিরিজ, কার্টুন ও লাইভ স্পোর্টস এক জায়গায় উপভোগ করুন।",
+  "points_bn": [
+    "সিনেমা, সিরিজ ও কিডস কনটেন্ট",
+    "মোবাইল, ট্যাব ও টিভিতে দেখা যায়",
+    "যেকোনো সমস্যায় সাপোর্ট পাবেন",
+    "সুবিধামতো প্ল্যান"
+  ],
+  "about_en": "Disney+ Hotstar — enjoy movies, series, cartoons and live sports in one place.",
+  "points_en": [
+    "Movies, series and kids content",
+    "Watch on mobile, tablet and TV",
+    "Support for any problem",
+    "Plans to suit you"
+  ],
+  "order": 18
+}

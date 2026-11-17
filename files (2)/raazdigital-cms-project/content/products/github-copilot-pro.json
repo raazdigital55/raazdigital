@@ -1,0 +1,24 @@
+{
+  "name": "GitHub Copilot Pro",
+  "category": "AI & Education",
+  "price": 1999,
+  "badge": "🆕 New",
+  "letter": "G",
+  "color1": "#6e40c9",
+  "color2": "#2d1b69",
+  "image": "",
+  "plans": [],
+  "about_bn": "GitHub Copilot আপনার কোড এডিটরের ভেতরেই AI পেয়ার প্রোগ্রামার।",
+  "points_bn": [
+    "VS Code, JetBrains সহ আরও এডিটরে কোড সাজেশন ও চ্যাট",
+    "টেস্ট, ডিবাগিং ও রিফ্যাক্টরিংয়ে সাহায্য",
+    "সমর্থিত প্ল্যানে একাধিক AI মডেল"
+  ],
+  "about_en": "GitHub Copilot is an AI pair programmer inside your code editor.",
+  "points_en": [
+    "Code completions and chat in VS Code, JetBrains and more",
+    "Help with tests, debugging and refactoring",
+    "Access to multiple AI models on supported plans"
+  ],
+  "order": 51
+}

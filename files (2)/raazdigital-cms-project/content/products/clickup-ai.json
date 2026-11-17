@@ -1,0 +1,24 @@
+{
+  "name": "ClickUp AI",
+  "category": "Software & Productivity",
+  "price": 1499,
+  "badge": "🆕 New",
+  "letter": "C",
+  "color1": "#7b68ee",
+  "color2": "#2b1f6e",
+  "image": "",
+  "plans": [],
+  "about_bn": "ClickUp একটি প্রজেক্ট ম্যানেজমেন্ট প্ল্যাটফর্ম; ClickUp AI যোগ করে লেখায় সাহায্য, সারাংশ ও অটোমেশন।",
+  "points_bn": [
+    "টাস্ক, ডকুমেন্ট ও প্রজেক্ট এক জায়গায়",
+    "AI সারাংশ ও লেখায় সাহায্য",
+    "অনেক টুলের সাথে সংযোগ"
+  ],
+  "about_en": "ClickUp is a project management platform; ClickUp AI adds writing help, summaries and automation.",
+  "points_en": [
+    "Tasks, docs and projects in one place",
+    "AI summaries and writing help",
+    "Integrates with many other tools"
+  ],
+  "order": 60
+}

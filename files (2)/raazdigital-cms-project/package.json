@@ -1,0 +1,8 @@
+{
+  "name": "raazdigital-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RaaZ Digital store — content managed with Sveltia CMS, built by build.py",
+  "scripts": { "build": "python3 build.py" },
+  "dependencies": { "sharp": "^0.34.5" }
+}

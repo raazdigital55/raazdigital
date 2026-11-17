@@ -1,0 +1,26 @@
+{
+  "name": "Notion Plus",
+  "category": "Software & Productivity",
+  "price": 799,
+  "badge": "",
+  "letter": "N",
+  "color1": "#111827",
+  "color2": "#374151",
+  "image": "",
+  "plans": [],
+  "about_bn": "Notion Plus — নোট, টাস্ক ও প্রজেক্ট এক জায়গায় গুছিয়ে রাখুন।",
+  "points_bn": [
+    "আনলিমিটেড ব্লক ও ফাইল",
+    "টিমের সাথে কাজ",
+    "টাস্ক ও ডাটাবেজ",
+    "সব ডিভাইসে সিঙ্ক"
+  ],
+  "about_en": "Notion Plus — keep your notes, tasks and projects organized in one place.",
+  "points_en": [
+    "Unlimited blocks and files",
+    "Teamwork",
+    "Tasks and databases",
+    "Syncs across all devices"
+  ],
+  "order": 26
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Windows 11 Pro",
+  "category": "Windows",
+  "price": 800,
+  "badge": "",
+  "letter": "W",
+  "color1": "#0ea5e9",
+  "color2": "#075985",
+  "image": "",
+  "plans": [
+    {
+      "label": "Lifetime",
+      "price": 800
+    }
+  ],
+  "about_bn": "Windows 11 Pro-এর লাইসেন্স কী দিয়ে আপনার পিসি অ্যাক্টিভেট করুন এবং Pro ফিচারগুলো ব্যবহার করুন।",
+  "points_bn": [
+    "লাইসেন্স কী দিয়ে অ্যাক্টিভেশন",
+    "BitLocker ডিস্ক এনক্রিপশন",
+    "Remote Desktop ও Hyper-V",
+    "আরও নিরাপদ ও দ্রুত পিসি অভিজ্ঞতা"
+  ],
+  "about_en": "Activate your PC with a Windows 11 Pro license key and use all Pro features.",
+  "points_en": [
+    "Activation with a license key",
+    "BitLocker disk encryption",
+    "Remote Desktop and Hyper-V",
+    "A safer, faster PC experience"
+  ],
+  "order": 5
+}
